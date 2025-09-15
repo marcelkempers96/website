@@ -1,36 +1,55 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Reef Support Website
+
+A modern, responsive website for Reef Support - Professional Reef Aquarium Services.
+
+## Features
+
+- **Modern Design**: Clean, professional layout with Tailwind CSS
+- **Responsive**: Mobile-first design that works on all devices
+- **Fast**: Built with Next.js 15 and optimized for performance
+- **Accessible**: Semantic HTML and proper ARIA labels
+- **SEO Ready**: Proper meta tags and structured content
+
+## Sections
+
+- **Header**: Navigation with mobile menu
+- **Hero**: Eye-catching introduction with call-to-action
+- **Services**: Six key service offerings with icons
+- **About**: Company information and credentials
+- **Contact**: Contact form and business information
+- **Footer**: Links and social media
 
 ## Getting Started
 
-First, run the development server:
+1. Install dependencies:
+   ```bash
+   npm install
+   ```
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+2. Run the development server:
+   ```bash
+   npm run dev
+   ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+3. Open [http://localhost:3000](http://localhost:3000) in your browser
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Customization
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+The website is ready for your content! Simply update the following:
 
-## Learn More
+- **Company Information**: Update contact details, address, and phone numbers
+- **Services**: Modify the services array in `src/components/Services.tsx`
+- **About Section**: Update company story and credentials
+- **Images**: Add your own images to the `public` folder
+- **Colors**: Customize the color scheme in Tailwind classes
 
-To learn more about Next.js, take a look at the following resources:
+## Tech Stack
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Next.js 15**: React framework with App Router
+- **TypeScript**: Type-safe development
+- **Tailwind CSS**: Utility-first CSS framework
+- **ESLint**: Code linting and formatting
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Ready for Content
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+The skeleton is complete and ready for your content. All sections are structured and styled, waiting for your specific information about Reef Support.
