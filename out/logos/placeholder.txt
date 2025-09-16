@@ -1,0 +1,10 @@
+This is a placeholder file. Replace this with actual logo files:
+
+- universidad-nacional-colombia.png
+- indonesia-biru-foundation.png  
+- fruitpunch-ai.png
+- lobster-robotics.png
+- wwf.png
+- ranmarine.png
+
+The system will automatically fall back to emoji icons if logo files are missing.
