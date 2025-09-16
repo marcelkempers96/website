@@ -1,6 +1,6 @@
 # Reef Support Website
 
-A modern, responsive website for Reef Support - Professional Reef Aquarium Services.
+A modern, responsive website for Reef Support 
 
 ## Features
 
